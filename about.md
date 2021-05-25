@@ -1,5 +1,3 @@
-layout: page
-title: "About"
-permalink: /about/
+[Home](./index.html)  |  [About](./about.html)  |  [Documentation](./documentation.html).
 
 ## TESTE
