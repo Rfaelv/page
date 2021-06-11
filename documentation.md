@@ -1,3 +1,4 @@
+[Home](./)  |  [About](./about.html)  |  [Documentation](./documentation.html)
 
 ## Welcome to InstabiliTool
 You can use the [editor on GitHub](https://github.com/Rfaelv/page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
