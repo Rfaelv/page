@@ -1,7 +1,17 @@
 [Home](./)  |  [About](./about.html)  |  [Documentation](./documentation.html)
+## Documentation
+Welcome to the Instabilitool documentation! If this is your first time exploring the Instabilitool app, read through this section to get familiar with the basics. Appreciate it.
 
-## Welcome to InstabiliTool
-You can use the [editor on GitHub](https://github.com/Rfaelv/page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Prerequisites
+
+To use this app, you need to have a local installation of Ansys. The version of Ansys installed will dictate the interface and features available to you.
+Visit [Ansys](https://www.ansys.com/) for more information on getting a licensed copy of Ansys.
+
+#### ANSYS Software Requirements
+For the latest features, you will need a copy of ANSYS 2021R1 installed locally, but this app is compatible with ANSYS 17.0 and newer.
+
+#### Verifying Your Installation
+The InstabiliTool app always will automatcally verify your Ansys instalation in the initialization. If rise up an problem with the Ansys instalation path, it will promp an window to the user insert the Ansys binary path.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
