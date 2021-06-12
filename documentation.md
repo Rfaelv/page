@@ -14,36 +14,27 @@ For the latest features, you will need a copy of ANSYS 2021R1 installed locally,
 #### Verifying Your Installation
 The InstabiliTool app always will automatically verify your Ansys instalation in the initialization. If there is an problem with the Ansys instalation path, it will promp an window to the user insert the Ansys binary path.
 
+### Analisy preferences
+---
 
+### Analysi type
+---
 
-### Markdown
+### Material properties
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Geometry
+---
 
-```markdown
-Syntax highlighted code block
+### Mesh and material assognment
+---
 
-# Header 1
-## Header 2
-### Header 3
+### Load
+---
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rfaelv/page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Boundary conditions
+---
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with InstabiliTool? Contact us [here](mailto:someone@microsoft.com?subject=Help me with InstabiliTool).
