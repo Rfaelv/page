@@ -37,4 +37,4 @@ The InstabiliTool app always will automatically verify your Ansys instalation in
 
 ### Support or Contact
 
-Having trouble with InstabiliTool? Contact us [here](malito:someone@microsoft.com?subject=Help me with InstabiliTool).
+Having trouble with InstabiliTool? Contact us [here](malito:ravieira@id.uff.br?subject=Help me with InstabiliTool).
