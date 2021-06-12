@@ -1,37 +1,11 @@
 [Home](./)  |  [About](./about.html)  |  [Documentation](./documentation.html)
-## Welcome to InstabiliTool
-You can use the [editor on GitHub](https://github.com/Rfaelv/page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+InstabiliTool is a app developed using Python and the framework [Electron](https://www.electronjs.org/) in order to facilitate the process of run stability analysis in Ansys. Due to a big range of possibilities and resources that the software Ansys offer, sometimes the interest in some specific analysis, like stability, can be hard to perform because of the difficulty in the input data. Also, sometimes it is necessary to run a set of analysis with several profile dimension, so this task can be extremely difficult with a not friendly GUI of drawing. Then, the aim of this work is to give a GUI application that offer to the users an easy and friendly way to run buckling analysis in profiles modeled with shell elements using ANSYS in background. The developed program allows a large range of possibilities of section shapes without needing any draw by the user. The application was developed using Python Language and the framework Electron and can perform linear and non-linear analysis with normal and bending loads. Moreover, was carefully developed to be easy to use to facilitate access and speed up numerical analysis of buckling for researchers and other interested people.
 
-### Markdown
+## License and Acknowledgments
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+InstabiliTool is licensed under the MIT license.
 
-```markdown
-Syntax highlighted code block
+This app makes no commercial claim over Ansys whatsoever. This tool extends the functionality of MAPDL by adding a Graphical User Interface (GUI) without changing the core behavior or license of the original software. The use of the GUI requires a legally licensed local copy of Ansys.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rfaelv/page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
