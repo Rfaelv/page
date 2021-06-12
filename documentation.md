@@ -14,7 +14,7 @@ For the latest features, you will need a copy of ANSYS 2021R1 installed locally,
 #### Verifying Your Installation
 The InstabiliTool app always will automatically verify your Ansys instalation in the initialization. If there is an problem with the Ansys instalation path, it will promp an window to the user insert the Ansys binary path.
 
-### Analisy preferences
+### Analysi preferences
 ---
 
 ### Analysi type
@@ -26,7 +26,7 @@ The InstabiliTool app always will automatically verify your Ansys instalation in
 ### Geometry
 ---
 
-### Mesh and material assognment
+### Mesh and material assignment
 ---
 
 ### Load
@@ -37,4 +37,4 @@ The InstabiliTool app always will automatically verify your Ansys instalation in
 
 ### Support or Contact
 
-Having trouble with InstabiliTool? Contact us [here](mailto:someone@microsoft.com?subject=Help me with InstabiliTool).
+Having trouble with InstabiliTool? Contact us [here](someone@microsoft.com?subject=Help me with InstabiliTool).
